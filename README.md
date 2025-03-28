@@ -99,7 +99,7 @@ Research results are saved to timestamped JSON files with the format:
 
 ## License
 
-[Your License Here]
+Apache 2
 
 ## Contributing
 
