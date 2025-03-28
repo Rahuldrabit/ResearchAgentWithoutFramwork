@@ -101,6 +101,10 @@ Research results are saved to timestamped JSON files with the format:
 
 Apache 2
 
+
+## checkout the video
+https://www.youtube.com/watch?v=a0lp0pAceVU
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
