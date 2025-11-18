@@ -97,6 +97,9 @@ python main.py --mode cli --query "quantum machine learning" --papers 5
 Research results are saved to timestamped JSON files with the format:
 - `research_results_YYYYMMDD-HHMMSS.json`
 
+## Video Link
+https://youtu.be/a0lp0pAceVU
+
 ## License
 
 Apache 2
